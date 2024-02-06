@@ -30,7 +30,7 @@ function between(a,b,c){
       }
       else if(b>=50 && b<=99 ){
         return true;
-      }
+      } 
       else if(c>=50 && c<=99){
         return true;
       }
