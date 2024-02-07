@@ -1,6 +1,4 @@
-// Using the join() method, create a string that joins all elements of the colors array into a single string separated by commas.
-let colors=['red','green','blue','yellow','orange'];
-console.log(colors.join(","))
+
 // Apply the splice() method to remove the second and third elements from the colors array and replace them with 'purple' and 'pink'
 const items = [
     {name: 'Bike', price:100},
